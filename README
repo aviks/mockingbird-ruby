@@ -6,7 +6,12 @@ To Mock a Mockingbird is a puzzle book by Raymond Smullyan which explains combin
 
 The code in this repository is an attempt to implement the definitions of combinator birds in Ruby. 
 
-The book, after defining certain specific birds, provides puzzles to prove various theorems of combinatory logic, culminating in the proof of Godel's incompleteness theorem. It should be obvious that this code makes no attempt to prove any theorems. It merely implements the combinators, providing opportunities for fun and education when combining them (pun intended). 
+The book, after defining certain specific birds, provides puzzles to prove various theorems of combinatory logic, culminating in the proof of Godel's incompleteness theorem. It should be obvious that this code makes no attempt to prove any such theorems. It merely implements the combinators, providing opportunities for fun and education when combining them (pun intended). 
+
+References
+http://en.wikipedia.org/wiki/Special:BookSources/0192801422 : The book
+http://dkeenan.com/Lambda/index.htm  : A graphical notation for the birds
+http://www.cs.virginia.edu/~gms2w/theory/Mockingbird.html : Applet demonstrating the birds, implements beta reduction
 
 License
 -------
